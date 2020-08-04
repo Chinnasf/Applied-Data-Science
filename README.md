@@ -6,7 +6,7 @@ My main objective is to keep uploading more complex analysis on several topics, 
 
 ### Content Description
 
-The `Data` directory holds the free for use data needed in codes. There are some zip files; which contains the compressed data needed for codes.
+The `Data` directory holds the free for use data needed in codes. There are some zip files, which contains the compressed data needed for codes.
 
 `Detroit_Blight_Ticket_Compliance_GBC.ipynb` is a Jupyter Notebook which treats the 
 [Detroit Blight Ticket Compliance Kaggle issue](https://www.kaggle.com/c/detroit-blight-ticket-compliance/overview). The solution is done using 
