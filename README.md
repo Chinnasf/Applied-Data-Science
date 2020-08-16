@@ -1,5 +1,5 @@
 # Applied Data Science
-Here I store compelling codes on Applied Data Science in Python. 
+
 My main objective is to keep uploading more complex analysis on several topics, as I keep learning on data analysis and machine learning. Also, I will gradually upload codes that has already been developed.
 
 ---
