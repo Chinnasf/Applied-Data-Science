@@ -19,6 +19,8 @@ There is a `Data` directory per directory in this repository; where the data nee
 
 **`Date_Recover.ipynb`**<br>Is a Jupyter Notebook which has a code to retrieve different type of date formats to therefore use it to sort a list of events. I employ the python libraries `pandas`, `re`, and `nltk`.
 
+**`MobyDick_analysis.ipynb `**<br>This notebook shows 11 ways to use `nltk`'s functions to study the basic components of text, in this case, the Moby Dick novel.
+
 ---
 
 ### Contributing
