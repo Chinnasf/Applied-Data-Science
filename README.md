@@ -1,6 +1,6 @@
 # Applied Data Science
 
-My main objective is to keep uploading more complex analysis on several topics, as I keep learning on data analysis and machine learning. Also, I will gradually upload codes that has already been developed.
+The objective is to keep uploading more complex analysis on several topics, as I keep learning on data analysis and machine learning.
 
 ---
 
