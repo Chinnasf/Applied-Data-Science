@@ -12,8 +12,13 @@ There is a `Data` directory per directory in this repository; where the data nee
 
 **`Detroit_Blight_Ticket_Compliance_GBC.ipynb`**<br>Is a Jupyter Notebook which treats the 
 [Detroit Blight Ticket Compliance Kaggle issue](https://www.kaggle.com/c/detroit-blight-ticket-compliance/overview). The solution is done using 
-[Gradient Boost Classifier](https://en.wikipedia.org/wiki/Gradient_boosting). For the solution, I employ the python libraries `pandas`,`matplotlib`, `numpy`, and 
+[Gradient Boost Classifier](https://en.wikipedia.org/wiki/Gradient_boosting). For the solution, I use the python libraries `pandas`,`matplotlib`, `numpy`, and 
 `sklearn`. 
+
+**`cancer_classifier.ipynb`**<br>  
+This notebook uses the Breast Cancer Wisconsin (Diagnostic) Database, obtained from `sklearn.datasets`, to create a [knn classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) that could help diagnose patients. I developed the notebook while taking the Applied Data Science with Python [Specialization](https://www.coursera.org/specializations/data-science-python) by the University of Michigan. I use the python libraries `pandas`,`matplotlib`, `numpy`, and  `sklearn`.
+
+***
 
 #### `Text_Mining` directory: Applied Text Analysis Algorithms
 
